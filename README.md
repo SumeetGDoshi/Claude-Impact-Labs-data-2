@@ -40,7 +40,7 @@ Complaint clean-up (de-duplication, multilingual parsing, geocoding) is a suppor
 | `data/work_orders.csv` | 2,499 | Repair jobs: contractor, method, area, cost, SLA, re-opened |
 | `data/rate_card.csv` | 10 | Standard rate per repair method (per sqm or per job) |
 | `data/contractors.csv` | 8 | Fictional contractors |
-| `data/complaints.csv` | 6,501 | MyBMC app, 1916 helpline, portal and walk-in complaints (Jun to Sep 2025) |
+| `data/complaints.csv` | 6,501 | MyBMC app, 1916 helpline, portal and walk-in complaints (Jun to early Oct 2025) |
 | `data/complaints_sample_200.csv` | 200 | Complaints from a heavy-rain spell (7 to 8 Jul), handy for quick prompting |
 | `data/social_posts.csv` | 650 | X, WhatsApp and Instagram posts in mixed languages, with noise |
 | `data/roads.csv` + `roads.geojson` | 291 | Road segments, incl. last resurfaced date and Defect Liability Period (DLP) status |
